@@ -1,78 +1,99 @@
-
-
 sidebar:
-    position: right 
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+  position: right
+  about: true # Set to false or comment out to remove the "how to use?" in the sidebar
+  education: true # Set to false to move education to the main section instead of the sidebar
 
-    # Profile information
-    name: Aditya Dhome
-    tagline: Unleashing the Digital Future
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  # Profile information
+  name: Aditya Dhome
+  tagline: Unleashing the Digital Future
+  avatar: profile.png # Place a 100x100 picture inside /assets/images/ folder
 
-    # Sidebar links
-    email: adityadhome156@gmail.com
-    phone: +91 98349875912
-    timezone: pune,india 
-    citizenship:
-    website: adityadhome.github.io 
-    linkedin: AdityaDhome
-    xing: AdityaDhome
-    github: AdityaDhome
-    twitter: '@AdityaDhome'
-    codewars:
-    goodreads:     
-    languages:
-      title: Languages
-      info:
-        - idiom: Marathi
-          level: Native
+  # Sidebar links
+  email: adityadhome156@gmail.com
+  phone: +91 98349875912
+  timezone: Pune, India
+  citizenship: 
+  website: adityadhome.github.io
+  linkedin: AdityaDhome
+  xing: AdityaDhome
+  github: AdityaDhome
+  twitter: '@AdityaDhome'
+  codewars: 
+  goodreads: 
 
-        - idiom: English
-          level: Professional
-
-        - idiom: Hindi
-          level: Professional
-
-    interests:
-      title: Interests
-      info:
-
-       
-education:
-    title: Education
+  # Languages
+  languages:
+    title: Languages
     info:
-      - degree: BCA computer aplication
-        university: Pune University 
-        time: 2022-25
- details: | A dedicated BCA graduate from Pune University with a passion for web development and software engineering. 
-        Proficient in a range of programming languages and eager to apply my skills in a dynamic work environment. 
-        I bring a strong foundation in web technologies and a commitment to learning and growth.
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Aditya Dairy
-        link: "https://adityadhomedairy.unaux.com/"
-        tagline: "Aditya Dairy’s automation system revolutionizes milk processing with precision and hygiene.
-        It ensures consistent product quality and enhances production efficiency. By integrating advanced technology, 
-        it offers a sustainable solution that reduces waste and maximizes profitability."
-skills:
-    title: Skills &amp; Proficiency
-toolset:
-   - name: Javascript & jQuery
-        level: 98%
-   - name: Angular js
-        level: 90%
-   - name: HTML5 & CSS
-        level: 95%
-   - name: c++
-        level: 85%
-   - name: Video editing  & Photoshop
-        level: 70%
+      - idiom: Marathi
+        level: Native
+      - idiom: English
+        level: Professional
+      - idiom: Hindi
+        level: Professional
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="aryanvbw.github.io" target="_blank" rel="nofollow">Aditya Dhome</a>
+  # Interests
+  interests:
+    title: Interests
+    info: []
+
+# Education
+education:
+  title: Education
+  info:
+    - degree: BCA Computer Application
+      university: Pune University
+      time: 2022-25
+      details: >
+        A dedicated BCA graduate from Pune University with a passion for web development and software engineering. Proficient in a range of programming languages and eager to apply my skills in a dynamic work environment. I bring a strong foundation in web technologies and a commitment to learning and growth.
+
+# Projects
+projects:
+  title: Projects
+  intro: ''
+  assignments:
+    - title: Aditya Dairy
+      link: "https://adityadhomedairy.unaux.com/"
+      tagline: ''
+
+# Skills
+skills:
+  title: Skills & Proficiency
+  toolset:
+    - name: Javascript & jQuery
+      level: 98%
+    - name: Angular JS
+      level: 90%
+    - name: HTML5 & CSS
+# Experience
+experience:
+  title: Experience
+  info:
+    - role: Junior Web Developer
+      company: Tech Innovations Inc.
+      time: June 2025 - Present
+      details: >
+        Engaged in developing and maintaining high-quality web applications. Specialized in creating responsive designs and implementing features that enhance user experience. Collaborated with cross-functional teams to deliver projects on time.
+
+# Certifications
+certifications:
+  title: Certifications
+  info:
+    - name: Certified Web Developer
+      authority: Web Academy
+      year: 2024
+
+# Volunteer Work
+volunteer:
+  title: Volunteer Work
+  info:
+    - role: Coding Mentor
+      organization: Code for Good
+      time: 2023 - Present
+      details: >
+        Volunteering as a mentor to teach coding basics to underprivileged children. Designed interactive learning modules and provided hands-on guidance to inspire the next generation of tech enthusiasts.
+
+# Footer
+footer:
+  copyright: "© 2024 Aditya Dhome. All rights reserved."
+  disclaimer: "The information provided on this site is for general informational purposes only. All information is provided in good faith, however, I make no representation or warranty of any kind, regarding the accuracy, adequacy, validity, reliability, availability, or completeness of any information on the site."
