@@ -37,15 +37,10 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Climbing
-          link:
+        - item: Coding
+          link:https://github.com/adityadhome
 
-        - item: Snowboarding
-          link:
-
-        - item: Cooking
-          link:
-
+       
 education:
     title: Education
     info:
@@ -53,12 +48,9 @@ education:
         university: Pune University 
         time: 2022-25
         details: |
-        A dedicated BCA graduate from Pune University with a passion for web development and software engineering. Proficient in a range of programming languages and eager to apply my skills in a dynamic work environment. I bring a strong foundation in web technologies and a commitment to learning and growth.
-
-
-
-   
-
+        A dedicated BCA graduate from Pune University with a passion for web development and software engineering. 
+        Proficient in a range of programming languages and eager to apply my skills in a dynamic work environment. 
+        I bring a strong foundation in web technologies and a commitment to learning and growth.
 projects:
     title: Projects
     intro: >
@@ -68,7 +60,9 @@ projects:
     assignments:
       - title: Aditya Dairy
         link: "https://adityadhomedairy.unaux.com/"
-        tagline: "Aditya Dairy’s automation system revolutionizes milk processing with precision and hygiene. It ensures consistent product quality and enhances production efficiency. By integrating advanced technology, it offers a sustainable solution that reduces waste and maximizes profitability."
+        tagline: "Aditya Dairy’s automation system revolutionizes milk processing with precision and hygiene.
+        It ensures consistent product quality and enhances production efficiency. By integrating advanced technology, 
+        it offers a sustainable solution that reduces waste and maximizes profitability."
 skills:
     title: Skills &amp; Proficiency
 toolset:
