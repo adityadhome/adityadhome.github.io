@@ -72,19 +72,15 @@ projects:
 skills:
     title: Skills &amp; Proficiency
 toolset:
-      - name: Javascript & jQuery
+   - name: Javascript & jQuery
         level: 98%
-
-      - name: Angular js
+   - name: Angular js
         level: 90%
-
-      - name: HTML5 & CSS
+   - name: HTML5 & CSS
         level: 95%
-
-      - name: c++
+   - name: c++
         level: 85%
-
-      - name: Video editing  & Photoshop
+   - name: Video editing  & Photoshop
         level: 70%
 
 footer: >
