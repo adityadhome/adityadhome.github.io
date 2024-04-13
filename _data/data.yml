@@ -69,16 +69,9 @@ projects:
       - title: Aditya Dairy
         link: "https://adityadhomedairy.unaux.com/"
         tagline: "Aditya Dairy’s automation system revolutionizes milk processing with precision and hygiene. It ensures consistent product quality and enhances production efficiency. By integrating advanced technology, it offers a sustainable solution that reduces waste and maximizes profitability."
-
-
-  
-
-
 skills:
     title: Skills &amp; Proficiency
-
-    toolset:
-     
+toolset:
       - name: Javascript & jQuery
         level: 98%
 
