@@ -93,7 +93,6 @@ volunteer:
       details: >
         Volunteering as a mentor to teach coding basics to underprivileged children. Designed interactive learning modules and provided hands-on guidance to inspire the next generation of tech enthusiasts.
 
-# Footer
-footer:
-  copyright: "© 2024 Aditya Dhome. All rights reserved."
-  disclaimer: "The information provided on this site is for general informational purposes only. All information is provided in good faith, however, I make no representation or warranty of any kind, regarding the accuracy, adequacy, validity, reliability, availability, or completeness of any information on the site."
+ 
+ footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="aryanvbw.github.io" target="_blank" rel="nofollow">Aditya Dhome</a> copyright:© 2024 Aditya Dhome. All rights reserved.
