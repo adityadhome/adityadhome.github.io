@@ -1,94 +1,96 @@
+sidebar:
+  position: right
+  about: true # Set to false or comment out to remove the "how to use?" in the sidebar
+  education: true # Set to false to move education to the main section instead of the sidebar
 
-email: adityadhome156@gmail.com
-phone: +91 98349875912
-date_of_birth: 17th July 2004
-timezone: Pune, India
-website: adityadhome.github.io
-linkedin: AdityaDhome
-xing: AdityaDhome
-github: AdityaDhome
-twitter: '@AdityaDhome'
+  # Profile information
+  name: Aditya Dhome
+  tagline: Unleashing the Digital Future
+  avatar: profile.png # Place a 100x100 picture inside /assets/images/ folder
+
+  # Sidebar links
+  email: adityadhome156@gmail.com
+  phone: +91 98349875912
+  timezone: Pune, India
+  citizenship: 
+  website: adityadhome.github.io
+  linkedin: AdityaDhome
+  xing: AdityaDhome
+  github: AdityaDhome
+  twitter: '@AdityaDhome'
+  codewars: 
+  goodreads: 
+
+  # Languages
+  languages:
+    title: Languages
+    info:
+      - idiom: Marathi
+        level: Native
+      - idiom: English
+        level: Professional
+      - idiom: Hindi
+        level: Professional
+
+  # Interests
+  interests:
+    title: Interests
+    info: []
 
 # Education
 education:
-  - degree: Bachelor of Computer Applications (BCA)
-    university: Pune University
-    specialization: Computer Application
-    time: 2022-25
-    details: >
-      A dedicated BCA graduate from Pune University with a passion for web development and software engineering. Proficient in a range of programming languages and eager to apply my skills in a dynamic work environment. I bring a strong foundation in web technologies and a commitment to learning and growth.
-
-# Technical Skills
-technical_skills:
-  languages:
-    - CSS
-    - HTML5
-    - C++
-    - C
-    - JavaScript
-  frameworks:
-    - Node.js (Basic knowledge)
-    - AngularJS (Basic knowledge)
-  web_development:
-    - Proficient in creating dynamic websites using HTML, CSS, PHP, and JavaScript
+  title: Education
+  info:
+    - degree: BCA Computer Application
+      university: Pune University
+      time: 2022-25
+      details: >
+        A dedicated BCA graduate from Pune University with a passion for web development and software engineering. Proficient in a range of programming languages and eager to apply my skills in a dynamic work environment. I bring a strong foundation in web technologies and a commitment to learning and growth.
 
 # Projects
 projects:
-  - name: Aditya Automative System
-    description: >
-      Developed a comprehensive system for automating tasks using HTML, CSS, PHP, and JavaScript. Focused on enhancing user experience and streamlining operations.
+  title: Projects
+  intro: ''
+  assignments:
+    - title: Aditya Dairy
+      link: "https://adityadhomedairy.unaux.com/"
+      tagline: ''
 
-# Professional Summary
-professional_summary: >
-  A dedicated BCA graduate from Pune University with a passion for web development and software engineering. Proficient in a range of programming languages and eager to apply my skills in a dynamic work environment. I bring a strong foundation in web technologies and a commitment to learning and growth.
-
-# Personal Statement
-personal_statement: >
-  As a technology enthusiast, I am constantly exploring new advancements and applying them to practical projects. My educational background and hands-on project experience have equipped me with the necessary skills to contribute effectively to a team and deliver high-quality software solutions.
-
-# Languages
-languages:
-  - idiom: Marathi
-    level: Native
-  - idiom: English
-    level: Professional
-  - idiom: Hindi
-    level: Professional
-
-# Interests
-interests: []
-
-# Skills & Proficiency
+# Skills
 skills:
-  - name: Javascript & jQuery
-    level: 98%
-  - name: Angular JS
-    level: 90%
-  - name: HTML5 & CSS
-
+  title: Skills & Proficiency
+  toolset:
+    - name: Javascript & jQuery
+      level: 98%
+    - name: Angular JS
+      level: 90%
+    - name: HTML5 & CSS
 # Experience
 experience:
-  - role: Junior Web Developer
-    company: Tech Innovations Inc.
-    time: June 2025 - Present
-    details: >
-      Engaged in developing and maintaining high-quality web applications. Specialized in creating responsive designs and implementing features that enhance user experience. Collaborated with cross-functional teams to deliver projects on time.
+  title: Experience
+  info:
+    - role: Junior Web Developer
+      company: Tech Innovations Inc.
+      time: June 2025 - Present
+      details: >
+        Engaged in developing and maintaining high-quality web applications. Specialized in creating responsive designs and implementing features that enhance user experience. Collaborated with cross-functional teams to deliver projects on time.
 
 # Certifications
 certifications:
-  - name: Certified Web Developer
-    authority: Web Academy
-    year: 2024
+  title: Certifications
+  info:
+    - name: Certified Web Developer
+      authority: Web Academy
+      year: 2024
 
 # Volunteer Work
-volunteer_work:
-  - role: Coding Mentor
-    organization: Code for Good
-    time: 2023 - Present
-    details: >
-      Volunteering as a mentor to teach coding basics to underprivileged children. Designed interactive learning modules and provided hands-on guidance to inspire the next generation of tech enthusiasts.
-
-# Footer
-footer:
-  copyright: "© 2024 Aditya Dhome. All rights reserved."
-  disclaimer: "The information provided on this site is for general informational purposes only. All information is provided in good faith, however, I make no representation or warranty of any kind, regarding the accuracy, adequacy, validity, reliability, availability, or completeness of any information on the site."
+volunteer:
+  title: Volunteer Work
+  info:
+    - role: Coding Mentor
+      organization: Code for Good
+      time: 2023 - Present
+      details: >
+        Volunteering as a mentor to teach coding basics to underprivileged children. Designed interactive learning modules and provided hands-on guidance to inspire the next generation of tech enthusiasts.
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="aryanvbw.github.io" target="_blank" rel="nofollow">Aditya Dhome</a> copyright:© 2024 Aditya Dhome. All rights reserved.
