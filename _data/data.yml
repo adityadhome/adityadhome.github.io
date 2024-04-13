@@ -51,27 +51,9 @@ education:
     info:
       - degree: BCA computer aplication
         university: Pune University 
-        time: 2022
+        time: 2022-25
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-
+        A dedicated BCA graduate from Pune University with a passion for web development and software engineering. Proficient in a range of programming languages and eager to apply my skills in a dynamic work environment. I bring a strong foundation in web technologies and a commitment to learning and growth.
 
 
 
@@ -84,9 +66,9 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Aditya Dairy
+        link: "https://adityadhomedairy.unaux.com/"
+        tagline: "Aditya Dairy’s automation system revolutionizes milk processing with precision and hygiene. It ensures consistent product quality and enhances production efficiency. By integrating advanced technology, it offers a sustainable solution that reduces waste and maximizes profitability."
 
 
   
