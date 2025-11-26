@@ -2,7 +2,7 @@
 
 ## 📬 Contact Information
 **Email:** adityadhome156@gmail.com  
-**Phone:** +91 98349875912
+
 **Date of Birth:** 17th July 2004
 **Timezone:** Pune, India
 **Website:** adityadhome.github.io
